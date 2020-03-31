@@ -1,0 +1,17 @@
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\NF.HardwareLib.dll
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\NF.HardwareLib.pdb
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\NF.HardwareLib.pe
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\NF.HardwareLib.pdbx
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\mscorlib.pe
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\mscorlib.pdbx
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\mscorlib.dll
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\mscorlib.pdb
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\bin\Debug\mscorlib.xml
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\obj\Debug\NF.HardwareLib.nfprojAssemblyReference.cache
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\obj\Debug\NF.HardwareLib.nfproj.CoreCompileInputs.cache
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\obj\Debug\NF.HardwareLib.nfproj.CopyComplete
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\obj\Debug\NF.HardwareLib.dll
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\obj\Debug\NF.HardwareLib.pdb
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\obj\Debug\mscorlib.dll
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\obj\Debug\mscorlib.pdb
+C:\Users\dweav\Documents\Visual Studio 2019\Projects\NF.HardwareLib\NF.HardwareLib\obj\Debug\mscorlib.xml
